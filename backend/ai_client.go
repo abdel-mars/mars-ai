@@ -28,3 +28,5 @@ func GenerateMarsResponse(userMessage string) string {
         Mars2046.Philosophy,
     )
 }
+
+//add feature for eash
